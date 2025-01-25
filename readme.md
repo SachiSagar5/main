@@ -1,12 +1,6 @@
 
-<p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&width=435&lines=Hi%2C+I+am+Harendra+Kumar+Kanojiya" alt="I am Sachin" />
-</p>
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=harendra21&label=Profile%20views&color=0e75b6&style=plastic" alt="harendra21" />
-</p>
 
-Hi, I'm Harendra Kumar Kanojiya, a seasoned Full-Stack Developer with expertise in **Golang**, **Javascript**, **Angular**, **Node.js**, and front-end technologies. Over the years, I've successfully delivered live projects and portfolio work in these domains.
+Hi, I'm Sachin, a seasoned Front-end Developer with expertise in **ReactJS**, **Javascript**,  and front-end technologies. Over the years, I've successfully delivered live projects and portfolio work in these domains.
 
 I'm passionate about innovation and thrive on generating **new knowledge**. When faced with challenges, I meet them with a smile and tackle them head-on, ensuring swift resolutions. My approach is **highly organized**, **making efficient** use of my time and skills.
 
