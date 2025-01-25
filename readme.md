@@ -15,21 +15,6 @@ I bring proficiency in the following 🛠️ technologies and methodologies:
 
 ---
 
-### 🌟 Selected Projects
-Here are notable 💡 projects that showcase my technical expertise and creative 🎭 capabilities:
-
-1. **🍬 Candy City** - A ⚛️ React-based application that serves as a virtual 🍭 candy store, meticulously styled with 🎨 TailwindCSS.
-   - Key Features: Dynamic ✨ animations, responsive layout, and user-friendly interactions.
-   - [GitHub Repository](#) | [Live 🎥 Demonstration](#)
-
-2. **📁 Portfolio Website** - A comprehensive personal portfolio highlighting my technical skills and project experience.
-   - Key Features: Engaging interactive components and fluid scroll-based animations.
-   - [GitHub Repository](#) | [Live 🎥 Demonstration](#)
-
-3. **🌦️ Weather Application** - A fully functional 🌍 weather forecasting tool powered by API integrations.
-   - Key Features: Real-time ⏱️ weather updates and location-based 🌐 forecasting capabilities.
-   - [GitHub Repository](#) | [Live 🎥 Demonstration](#)
-
 ---
 
 ### 🌱 Areas of Ongoing Development
